@@ -23,7 +23,7 @@ The moment the number of seconds remaining are less than or equal to the number 
 ### Further desirable outcomes :bookmark_tabs:- 
 
 This script can be further integrated with an android application to get the data from the user without the hassle of entering the data via
-laptop/the device running this code.
+laptop/the device running this code. 
 
 The SmartAlarm has a huge area of utility and practical use.
 
